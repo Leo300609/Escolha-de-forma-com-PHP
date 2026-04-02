@@ -21,3 +21,4 @@ Este projeto demonstra a integração entre o front-end (HTML) e o back-end (PHP
 
 ---
 Projeto desenvolvido para praticar lógica de programação e integração com banco de dados/servidores no curso de ADS. 💻🔥
+Desenvolvido na ETEC de Poá, como parte do meu desenvolvimento e formação em Desenvolvimento de Sistemas.🔥💻
